@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00f6dd41-ed22-4886-b794-11154bc5e46c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/checkingidentifier/CheckingIdentifier.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/checkingidentifier/CheckingIdentifierTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583007524006</updated>
-      <workItem from="1583007527676" duration="1490000" />
+      <workItem from="1583007527676" duration="2171000" />
+      <workItem from="1583010914834" duration="1126000" />
+      <workItem from="1583012954208" duration="245000" />
+      <workItem from="1583112233050" duration="618000" />
     </task>
     <servers />
   </component>
@@ -130,10 +132,10 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state width="2490" height="363" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1583009040288" />
-    <state x="521" y="139" key="SettingsEditor" timestamp="1583008413970">
+    <state x="521" y="139" key="SettingsEditor" timestamp="1583010901474">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="521" y="139" key="SettingsEditor/0.0.2560.1410@0.0.2560.1410" timestamp="1583008413970" />
+    <state x="521" y="139" key="SettingsEditor/0.0.2560.1410@0.0.2560.1410" timestamp="1583010901474" />
     <state x="801" y="553" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583008030714">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
